@@ -24,7 +24,7 @@ Using MySQLi, write PHP programs (3 files) that provide: <br>
 2. Query page to search based on user form input                                             
 3. Form page for adding a record                                                            
                                                                        
-Review the code documentation requirements and ensure you meet them in your code.Thoroughly test your code to 
+Review the code documentation requirements and ensure you meet them in your code. Thoroughly test your code to 
 verify it functions correctly and displays the correct output.
 
 [Back to Table of Contents](#table-of-contents)
