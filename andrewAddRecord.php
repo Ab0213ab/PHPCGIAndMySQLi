@@ -22,7 +22,7 @@ include_once 'andrewDBCon.php';
     <meta charset="UTF-8">
     <link rel="stylesheet" href="styles.css">
 
-    <title>Module 9 Assignment</title>
+    <title>PHPCGIAndMySQLi</title>
 
 <style>
     #infoDisplay {
@@ -72,7 +72,7 @@ if ($con -> connect_errno) {
 ?>
 
 <center>
-<h4>Please fill out the following form and click submit to add the new record to the database.</h4>
+<h3>Please fill out the following form and click submit to add the new record to the database.</h3>
 
 <form action='andrewInsertCGI.php' method='POST' id='infoDisplay'>
     Author ID: <input type='number' name='author_id' style='margin: 1%;' required><br>

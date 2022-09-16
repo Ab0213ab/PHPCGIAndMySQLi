@@ -21,7 +21,7 @@ include_once 'andrewDBCon.php';
     <meta charset="UTF-8">
     <link rel="stylesheet" href="styles.css">
 
-    <title>Module 9 Assignment</title>
+    <title>PHPCGIAndMySQLi</title>
 
 </head>
 

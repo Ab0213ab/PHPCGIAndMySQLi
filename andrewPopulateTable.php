@@ -3,14 +3,18 @@
 <!-- CSD440 -->
 <!-- Module 8 Assignment (b) -->
 
-<!-------------------------------------------------------------------------------------------------------------->
-<!-- Assignment Instructions:                                                                                 -->
-<!-- Using MySQLi, write PHP programs (4 total) to create and populate a DB table to be used in Module 9.     -->
-<!-- You will need PHP scripts to: Create your table, drop your table, populate your table, and query to test -->
-<!-- your table. Your table is to have a minimum of 5 fields, with more than one data type.                   -->                                           
-<!-- Review the code documentation requirements and ensure you meet them in your code.                        -->
-<!-- Thoroughly test your code to verify it functions correctly and displays the correct output.              -->
-<!-------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------->
+<!-- Assignment Instructions:                                                                    -->
+<!-- For this assignment the database you will use is the one created in Module 8. Using MySQLi, --> 
+<!-- write PHP programs (3 files) that provide:                                                  --> 
+<!--                                                                                             -->
+<!-- 1. Index page with links to all following PHPs                                              --> 
+<!-- 2. Query page to search based on user form input                                            --> 
+<!-- 3. Form page for adding a record                                                            -->
+<!--                                                                                             --> 
+<!-- Review the code documentation requirements and ensure you meet them in your code.           -->
+<!-- Thoroughly test your code to verify it functions correctly and displays the correct output. -->
+<!------------------------------------------------------------------------------------------------->
 <?php
 include_once 'andrewDBCon.php';
 ?>
@@ -20,7 +24,7 @@ include_once 'andrewDBCon.php';
 <head>
     <meta charset="UTF-8">
 
-    <title>Module 8 Assignment (b)</title>
+    <title>PHPCGIAndMySQLi</title>
 
     <style>
     body {
