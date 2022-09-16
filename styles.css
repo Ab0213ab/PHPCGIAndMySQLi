@@ -1,0 +1,11 @@
+body {
+    background-color: #E3F75C;
+    }
+
+    h3 {
+    font-weight: 600;
+    background-image: linear-gradient(to top, #4A5BFA, #050A37);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    }
