@@ -18,8 +18,7 @@ Colored Circle                 |  Colored Ellipse               |  Colored Squar
 
 **Instructions**
 
-Using MySQLi, --> 
-Write PHP programs (3 files) that provide: <br>                                                 
+Using MySQLi, write PHP programs (3 files) that provide: <br>                                                 
                                                                                             
 1. Index page with links to all following PHPs                                               
 2. Query page to search based on user form input                                             
