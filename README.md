@@ -8,13 +8,13 @@
 
 **Functionality Screen Shots**
 
-Uncolored Circle                 |  Uncolored Ellipse               |  Uncolored Square
+Landing ->                |  Choose a Record ->               |  Record Retrieved from Database
 :-------------------------:|:-------------------------:|:-------------------------:
-![ScreenShot](/images/gui1.PNG)  |  ![ScreenShot](/images/gui2.PNG) | ![ScreenShot](/images/gui3.PNG)
+![ScreenShot](/images/index.PNG)  |  ![ScreenShot](/images/choose.PNG) | ![ScreenShot](/images/results.PNG)
 
-Colored Circle                 |  Colored Ellipse               |  Colored Square
+Add New Record Form ->                |  New Record Added ->               |  New Record Retrieved from Database
 :-------------------------:|:-------------------------:|:-------------------------:
-![ScreenShot](/images/gui6.PNG)  |  ![ScreenShot](/images/gui5.PNG) | ![ScreenShot](/images/gui4.PNG)
+![ScreenShot](/images/add.PNG)  |  ![ScreenShot](/images/added.PNG) | ![ScreenShot](/images/newRecord.PNG)
 
 **Instructions**
 
